@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer and a lifelong learner. My interests lie in Web3 and blockchain.
 
-I've worked in all aspects of software development. I started in software testing, automation development, software engineering in monoliths to modern application development practices, and DevOps.
+I've worked in all aspects of software development. I started in software testing, automation development, then software engineering in monoliths to modern application development practices, and DevOps.
 
 I'm available for hire. Take a look at my [LinkedIn profile](https://www.linkedin.com/in/lancetruong) and reach out to me.
